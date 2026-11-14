@@ -1,0 +1,9 @@
+Feature Name,Entity,Data Type,Description,Purpose
+user_id,User,Integer,Unique user identifier,User identification
+user_avg_rating,User,Float,Average rating given by the user,User preference analysis
+user_rating_count,User,Integer,Number of ratings submitted by the user,User activity analysis
+user_rating_bias,User,Float,User average rating minus global average rating,User rating tendency
+movie_id,Movie,Integer,Unique movie identifier,Movie identification
+movie_avg_rating,Movie,Float,Average rating received by the movie,Movie quality analysis
+movie_rating_count,Movie,Integer,Number of ratings received by the movie,Movie popularity analysis
+movie_rating_bias,Movie,Float,Movie average rating minus global average rating,Movie rating tendency

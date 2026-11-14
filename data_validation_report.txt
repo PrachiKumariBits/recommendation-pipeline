@@ -1,0 +1,28 @@
+STARTING DATA VALIDATION
+------------------------
+Total users: 943
+Total movies: 1682
+Total ratings: 100000
+
+Missing values:
+Users: 0
+Movies: 1686
+Ratings: 0
+
+Duplicate ratings: 0
+Invalid ratings: 0
+Invalid user IDs: 0
+Invalid movie IDs: 0
+
+Movie information validation:
+Missing Movie IDs: 0
+Missing Movie Titles: 0
+Duplicate Movie IDs: 0
+
+Timestamp validation:
+Missing timestamps: 0
+Invalid timestamps: 0
+Earliest interaction: 1997-09-20 03:05:10+00:00
+Latest interaction: 1998-04-22 23:10:38+00:00
+
+DATA VALIDATION COMPLETED
